@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DiniQuiz</string>
+    <string name="TakeTheQuiz">Take The Quiz</string>
+    <string name="edit_person_name">Enter Your Name</string>
+    <string name="start_button">START QUIZ</string>
+    <string name="your_score">Your Score</string>
+    <string name="instructions">If you answer all correct you are able to get your reward!</string>
+</resources>
